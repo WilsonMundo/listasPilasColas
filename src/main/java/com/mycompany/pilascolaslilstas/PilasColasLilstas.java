@@ -33,7 +33,15 @@ public class PilasColasLilstas {
         pila.push(60);
         System.out.println("Recorriendo la pila hasta dejarla vacia");
         pila.LimpiarPila();
+        System.out.println("cola");
+        Colas cola = new Colas();
+        cola.enqueue(100);
+        cola.enqueue(20);
+        cola.enqueue(50);
+        cola.enqueue(10);
+        cola.enqueue(60);
         
-        
+        System.out.println("Recorriendo la cola");
+        cola.LimpiandoCola();
     }
 }

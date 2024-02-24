@@ -1,5 +1,7 @@
 com\mycompany\pilascolaslilstas\ListaArbolBinario$Node.class
-com\mycompany\pilascolaslilstas\Pilas.class
 com\mycompany\pilascolaslilstas\ListaArbolBinario.class
-com\mycompany\pilascolaslilstas\Pilas$Node.class
+com\mycompany\pilascolaslilstas\Colas.class
 com\mycompany\pilascolaslilstas\PilasColasLilstas.class
+com\mycompany\pilascolaslilstas\Colas$Node.class
+com\mycompany\pilascolaslilstas\Pilas.class
+com\mycompany\pilascolaslilstas\Pilas$Node.class

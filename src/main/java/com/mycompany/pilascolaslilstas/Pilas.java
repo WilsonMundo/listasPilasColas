@@ -44,7 +44,7 @@ public class Pilas {
     }  
     public void LimpiarPila() {
         while (top != null) {
-            System.out.println("Valor saliendo de la pila " + String.format("%d", pop()));
+            System.out.println("Valor saliendo de la pila " + pop());
         }
     }
 }
